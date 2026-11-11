@@ -1,0 +1,40 @@
+{
+  "title": "Finding discrete symmetry groups via machine learning",
+  "description": "<p>Software implementation for Finding discrete symmetry groups via machine learning (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.045304). We introduce a machine-learning approach (denoted symmetry seeker neural network) capable of automatically discovering discrete symmetry groups in physical systems. This method identifies the finite set of parameter transformations that preserve the system's physical properties. Remarkably, the method accomplishes this without prior knowledge of the system's symmetry or the mathematical relationships between parameters and properties. Demonstrating its versatility, we showcase examples from mathematics, nanophotonics, and quantum chemistry.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-11-11",
+  "keywords": [
+  "symmetry detection", 
+  "machine learning",   
+  ],
+  "creators": [
+    {
+      "name": "Calvo-Barlés, Pablo",
+      "affiliation": "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza, 50009, Spain",
+      "orcid": "0000-0002-8371-9840"
+    },	
+	{
+      "name": "Rodrigo, Sergio G.",
+      "affiliation": "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física Aplicada, Universidad de Zaragoza, Zaragoza, 50009, Spain",
+      "orcid": "0000-0001-6575-168X"
+    }
+	{
+      "name": "Sánchez-Burillo, Eduardo",
+      "affiliation": "PredictLand S.L., Zaragoza 50001, Spain",
+      "orcid": "/0000-0002-3230-5824"
+    }
+    {
+      "name": "Martín-Moreno, Luis",
+      "affiliation": "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza, 50009, Spain",
+      "orcid": "0000-0001-9273-8165"
+    }    
+  ],
+  "communities": [
+    {
+      "identifier": "ainma-classphys"
+    }
+  ]
+}
